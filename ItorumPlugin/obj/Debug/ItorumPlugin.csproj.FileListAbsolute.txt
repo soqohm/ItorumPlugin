@@ -1,0 +1,48 @@
+C:\Users\SablukovDV\source\repos\ItorumPlugin\bin\Debug\ItorumPlugin.dll
+C:\Users\SablukovDV\source\repos\ItorumPlugin\bin\Debug\ItorumPlugin.pdb
+C:\Users\SablukovDV\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.csprojAssemblyReference.cache
+C:\Users\SablukovDV\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\SablukovDV\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.dll
+C:\Users\SablukovDV\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\ItorumPlugin.dll
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.dll
+C:\Users\soqohm\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.csprojAssemblyReference.cache
+C:\Users\SablukovDV\source\repos\ItorumPlugin\bin\Debug\ItorumPlugin.dll.config
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\ItorumPlugin.dll.config
+C:\Users\SablukovDV\Desktop\общая\ItorumPlugin\ItorumPlugin _ резерв (не финальная)\bin\Debug\ItorumPlugin.dll.config
+C:\Users\SablukovDV\Desktop\общая\ItorumPlugin\ItorumPlugin _ резерв (не финальная)\bin\Debug\ItorumPlugin.dll
+C:\Users\SablukovDV\Desktop\общая\ItorumPlugin\ItorumPlugin _ резерв (не финальная)\bin\Debug\ItorumPlugin.pdb
+C:\Users\SablukovDV\Desktop\общая\ItorumPlugin\ItorumPlugin _ резерв (не финальная)\obj\Debug\ItorumPlugin.csprojAssemblyReference.cache
+C:\Users\SablukovDV\Desktop\общая\ItorumPlugin\ItorumPlugin _ резерв (не финальная)\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\SablukovDV\Desktop\общая\ItorumPlugin\ItorumPlugin _ резерв (не финальная)\obj\Debug\ItorumPlugin.dll
+C:\Users\SablukovDV\Desktop\общая\ItorumPlugin\ItorumPlugin _ резерв (не финальная)\obj\Debug\ItorumPlugin.pdb
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ резерв (не финальная)\bin\Debug\ItorumPlugin.dll.config
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ резерв (не финальная)\bin\Debug\ItorumPlugin.dll
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ резерв (не финальная)\bin\Debug\ItorumPlugin.pdb
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ резерв (не финальная)\obj\Debug\ItorumPlugin.csprojAssemblyReference.cache
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ резерв (не финальная)\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ резерв (не финальная)\obj\Debug\ItorumPlugin.dll
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ резерв (не финальная)\obj\Debug\ItorumPlugin.pdb
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ сборка\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.csprojAssemblyReference.cache
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ сборка\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ сборка\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.dll
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ сборка\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.pdb
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ сборка\ItorumPlugin _ финал\bin\Debug\ItorumPlugin.dll.config
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ сборка\ItorumPlugin _ финал\bin\Debug\ItorumPlugin.dll
+C:\Users\SablukovDV\Downloads\ItorumPlugin _ сборка\ItorumPlugin _ финал\bin\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка\ItorumPlugin _ финал\bin\Debug\ItorumPlugin.dll.config
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка\ItorumPlugin _ финал\bin\Debug\ItorumPlugin.dll
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка\ItorumPlugin _ финал\bin\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.csprojAssemblyReference.cache
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.dll
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка — копия\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка — копия\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка — копия\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.dll
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка — копия\ItorumPlugin _ финал\obj\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка — копия\ItorumPlugin _ финал\bin\Debug\ItorumPlugin.dll
+C:\Users\soqohm\Desktop\ItorumPlugin _ сборка — копия\ItorumPlugin _ финал\bin\Debug\ItorumPlugin.pdb
